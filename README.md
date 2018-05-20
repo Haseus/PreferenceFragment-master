@@ -3,7 +3,7 @@ An preferencefragment excercise.
 ## 首先打开主界面，包含多种功能的Preference。创建一个preference XML文件，然后创建一个PreferenceFragment类来加载XML文件，最后在Activity类中通过创建事务来加载pereference
 
 ### 第一个是Pereference的Checkbox控件。
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/1.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/1.png)
 ### 第二个是Pereferemce的EditText控件。通过点击可以响应EditText窗口。
 ![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/2.png?raw=true)
 ### 第三个是ListPreference控件。通过绑定String Xml文件中的Array数据完成适配。
