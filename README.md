@@ -5,13 +5,13 @@ An preferencefragment excercise.
 ### 第一个是Pereference的Checkbox控件。
 ![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/1.png)
 ### 第二个是Pereferemce的EditText控件。通过点击可以响应EditText窗口。
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/2.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/2.png)
 ### 第三个是ListPreference控件。通过绑定String Xml文件中的Array数据完成适配。
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/3.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/3.png?raw=true)
 ### 第四个是通过intent跳转到新的Activity，在新的Activit加载新的PrefenceFragment。从而实现跳转另一个Preference。
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/4.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/4.png?raw=true)
 ### 第五个intent通过设置action和Data属性实现在浏览器打开指定网页窗口。
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/5.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/5.png?raw=true)
 ## 第六个Parent Checkbox设置disableDependentsState为false时，即check属性为true是才显示。Child Checkbox dependency属性为Parent的key值。
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/6.png?raw=true)
-![Alt Text](https://github.com/Haseus/PreferenceFragment/blob/master/app/src/main/res/image/7.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/6.png?raw=true)
+![](https://github.com/Haseus/PreferenceFragment-master/blob/master/app/src/main/res/image/7.png?raw=true)
